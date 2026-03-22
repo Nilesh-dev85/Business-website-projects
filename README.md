@@ -19,12 +19,12 @@ Collection of professional websites built for personal & businesses.
 Help personal & businesses to establish a strong online presence.
 
 ## 📸 Projects
-www.smarttec.com
-www.idigitalservice.com
-www.shopflix24.com
-www.autodoor.in
+- www.smarttec.com
+- www.idigitalservice.com
+- www.shopflix24.com
+- www.autodoor.in
 
 ## 📞 Contact
 📧 idigitalservice.co@gmail.com
 
-💼 Available for website development
+## 💼 Available for website development
